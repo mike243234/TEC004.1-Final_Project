@@ -1,6 +1,0 @@
-beautifulsoup4
-requests
-pandas
-matplotlib
-fastapi
-uvicorn
