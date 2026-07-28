@@ -2,7 +2,6 @@ import os
 import json
 import time
 from abc import ABC, abstractmethod
-from bs4 import BeautifulSoup
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
